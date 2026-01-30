@@ -1,20 +1,36 @@
-Cybersecurity & Ethical Hacking Fundamentals – Workshop Resources
+**Cybersecurity \& Ethical Hacking Fundamentals – Workshop Resources**
 
-This repository contains academic and promotional materials related to a university-level technical workshop titled “Cybersecurity & Ethical Hacking Fundamentals.”
+
+
+This repository contains academic and promotional materials related to a university-level technical workshop titled “Cybersecurity \& Ethical Hacking Fundamentals.”
 
 All files are prepared for official academic use, including documentation, poster design, video content, and email communication.
 
- Workshop Overview
 
-Workshop Title: Cybersecurity & Ethical Hacking Fundamentals
+
+&nbsp;**Workshop Overview**
+
+
+
+**Workshop Title:** Cybersecurity \& Ethical Hacking Fundamentals
+
+
 
 Mode: Online Workshop
 
-Organized by: Department of Computer Science and Engineering
 
-Target Audience: Undergraduate engineering students
 
- Repository Contents
+**Organized by:** Department of Computer Science and Engineering
+
+
+
+**Target Audience:** Undergraduate engineering students
+
+
+
+
+
+&nbsp;**Repository Contents**
 
 .
 
@@ -28,60 +44,128 @@ Target Audience: Undergraduate engineering students
 
 └── README.md
 
- Poster.png
+
+
+
+
+&nbsp;**Poster.png**
+
+
 
 High-resolution digital poster for the workshop
 
+
+
 Professional academic design with cybersecurity theme
+
+
 
 Suitable for:
 
+
+
 College notice boards
+
+
 
 Online promotion
 
+
+
 Department announcements
 
-video.mp4
+
+
+
+
+**video.mp4**
+
+
 
 Promotional or informational video related to the workshop
 
+
+
 Can be used for:
+
+
 
 Student outreach
 
+
+
 Online announcements
+
+
 
 Social media or LMS platforms
 
- email.docx
+
+
+
+
+&nbsp;**email.docx**
+
+
 
 Formal academic email draft
 
+
+
 Used for:
+
+
 
 Workshop invitation
 
+
+
 Official communication with students and faculty
+
+
 
 Written in a professional and university-appropriate tone
 
- Purpose of This Repository
+
+
+
+
+&nbsp;**Purpose of This Repository**
+
+
 
 Centralized storage of workshop-related academic materials
 
+
+
 Easy access for faculty, coordinators, and students
+
+
 
 Supports promotion, documentation, and communication
 
+
+
 Maintains a formal academic standard
 
-Intended Use
+
+
+
+
+**Intended Use**
+
+
 
 Educational and academic purposes only
 
+
+
 Can be reused or modified for:
 
+
+
 University workshops
+
+
 
 Department events
